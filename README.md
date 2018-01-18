@@ -8,4 +8,5 @@ The application is built from three standalone modules:
 
 *   The Bayesian Classifier, classifies new genomic sequences into predetermined classes using a training genome matrix of known parameters (e.g. disease, host´s age, host´s sex, geographic location, drug resistance etc.)
 The Naive Bayes Classifier technique is based on the so-called Bayesian theorem and is particularly suited when the dimensionality of the inputs is high. Despite its simplicity, Naive Bayes can often outperform more sophisticated classification methods.
+
 *   The Feature Extraction
